@@ -1,0 +1,42 @@
+body{
+    background: -webkit-linear-gradient(rgb(242, 250, 251), rgb(66, 71, 71), rgb(124, 121, 121));
+    background: -moz-linear-gradient(rgb(242, 250, 251), rgb(66, 71, 71), rgb(124, 121, 121))  
+}
+
+.navbar-light {
+    text-align: center;
+   font-family: 'ZCOOL QingKe HuangYou', cursive;
+   background: -webkit-linear-gradient(rgb(242, 250, 251), rgb(66, 71, 71), rgb(124, 121, 121));
+   background: -moz-linear-gradient(rgb(242, 250, 251), rgb(66, 71, 71), rgb(124, 121, 121))  
+}
+
+.navbar-brand{
+    font-size: 50px;
+    text-align: center;
+}
+
+.nav-link{
+    text-align: center;
+}
+
+h1,a{
+    color: white;
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    text-align: center
+}
+
+.card-body{
+    background: -webkit-linear-gradient(rgb(26, 24, 24), rgb(66, 71, 71), rgb(242, 250, 251));
+    background: -moz-linear-gradient(rgb(26, 24, 24), rgb(66, 71, 71), rgb(242, 250, 251));
+}
+
+h2,a{
+    color: black;
+    font-size: 35px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    text-align: center
+}
+
+
